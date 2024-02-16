@@ -29,7 +29,7 @@
 - 🔭 I’m currently working on **Next.js, React, React Native, Nodejs, Material UI.**
 
 - 📫 Feel free to reach me out **lisgimenaroa@gmail.com**
-
+- You can see my work here: **https://portfoliolisroa.netlify.app/**
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
