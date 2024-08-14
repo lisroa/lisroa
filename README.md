@@ -1,6 +1,11 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="800">
+</div>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -10,11 +15,8 @@
 </div>
 
 
-<!--- snake -->
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/resources/grid-snake.svg" alt="snake">
-  </a>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="600">
 </div>
 
 
@@ -28,11 +30,12 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Next.js, React, React Native, Nodejs, Material UI.**
+<div align="center">
+  <p>🔭 I’m currently working on <strong>Next.js, React, React Native, Nodejs, Material UI, Tailwind, Flutter.</strong></p>
+  <p>📫 Feel free to reach me out <strong>lisgimenaroa@gmail.com</strong></p>
+  <p>You can see my work here: <strong>https://portfoliolisroa.netlify.app/</strong></p>
+</div>
 
-- 📫 Feel free to reach me out **lisgimenaroa@gmail.com**
-- You can see my work here: **https://portfoliolisroa.netlify.app/**
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -62,8 +65,7 @@
 </p>
 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ----------------------------------------------------------------------
 
