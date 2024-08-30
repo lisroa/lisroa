@@ -31,7 +31,7 @@
 
 
 <div align="center">
-  <p>🔭 I’m currently working on <strong>Next.js, React, React Native, Nodejs, Material UI, Tailwind, Flutter.</strong></p>
+  <p>🔭 I’m currently working on <strong>Next.js, React, React Native, Typescript, Nodejs, Tailwind, Flutter.</strong></p>
   <p>📫 Feel free to reach me out <strong>lisgimenaroa@gmail.com</strong></p>
   <p>You can see my work here: <strong>https://portfoliolisroa.netlify.app/</strong></p>
 </div>
